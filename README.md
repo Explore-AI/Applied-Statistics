@@ -27,4 +27,4 @@ The table below contains the meeting schedule, as well as the planned objective(
 | Meeting | Date | Objective | Organizer |
 | ---------- | ---- | --------- | --------- |
 | Intro Call | 25-06-2021 | Define high-level objectives | Tariq Desai |
-| Deep Dive 1 | 23-07-2021 | Deep dive on chapters 1-3 | Devin Pelser | 
+| Deep Dive 1 | TBD | Deep dive on chapters 1-3 | Devin Pelser | 
